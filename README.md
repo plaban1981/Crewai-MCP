@@ -70,3 +70,55 @@ graph TD
 ```
 
 <img width="1277" alt="image" src="https://github.com/user-attachments/assets/6a21b515-0c29-41e3-bfa1-3f1ba7991cd9" />
+
+
+
+
+## 🏗️ Architecture Breakdown
+
+#### 📱 Frontend Layer
+* streamlit_app.py - Main web interface with beautiful UI
+* streamlit_app_backup.py - Backup version for safety
+
+#### 🔄 API & Integration Layer
+
+* main_api.py - Bridge between Streamlit and CrewAI
+* app.py - Alternative interface implementation
+  
+#### 🤖 AI Core Layer
+
+* main.py - CrewAI agents (Research + Writer)
+* debug_summary.py - Summary extraction utilities
+
+
+#### 📡 MCP Server Layer
+
+* servers/search_server.py - Web search via Brave API
+* servers/image_server.py - Image generation via Segmind API
+  
+#### 📊 Data Storage Layer
+
+* servers/search_results/ - JSON files with search data (40+ topics)
+* servers/images/ - Generated AI images (30+ visuals)
+
+#### ⚙️ Configuration & Utilities
+* requirements.txt - Dependencies management
+* setup_nodejs.py - Environment setup
+* test_python_version.py - Compatibility testing
+
+<img width="878" alt="image" src="https://github.com/user-attachments/assets/1a5634c3-e354-4301-8b00-eab738c1182c" />
+
+
+
+## Streamlit Interface 
+
+<img width="1186" alt="image" src="https://github.com/user-attachments/assets/ec4adf38-e9a6-4232-b0a9-27b391965dca" />
+
+
+
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/d7ff1352-865e-44ef-b813-ac092a0dc2f5" />
+
+
+<img width="1019" alt="image" src="https://github.com/user-attachments/assets/13e1f173-b191-4bb5-8661-08d0812ef4c9" />
+
+
