@@ -108,6 +108,18 @@ graph TD
 
 <img width="878" alt="image" src="https://github.com/user-attachments/assets/1a5634c3-e354-4301-8b00-eab738c1182c" />
 
+## Run the Application without the UI 
+
+```
+python main.py
+```
+
+## Run the Application using streamlit
+
+```
+# Launch Streamlit app
+ streamlit run streamlit_app.py
+```
 
 
 ## Streamlit Interface 
