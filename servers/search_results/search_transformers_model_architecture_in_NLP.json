@@ -1,0 +1,48 @@
+{
+  "query": "transformers model architecture in NLP",
+  "timestamp": "",
+  "results": [
+    {
+      "title": "Transformer (deep learning architecture) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)",
+      "description": "Transformers have the advantage of having no recurrent units, therefore requiring less training time than earlier recurrent neural architectures (RNNs) such as long short-term memory (LSTM). Later variations have been widely adopted for training large language models (LLM) on large (language) ...",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "What are Transformers? - Transformers in Artificial Intelligence Explained - AWS",
+      "url": "https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/",
+      "description": "For instance, models like DALL-E ... NLP and computer vision capabilities. With transformers, you can create AI applications that integrate different information types and mimic human understanding and creativity more closely. ... Transformers have created a new generation of AI technologies and AI research, pushing the boundaries of what&#x27;s possible in ML. Their success has inspired new architectures and applications ...",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Transformeur — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Transformeur",
+      "description": "Un transformeur (ou modèle auto-attentif) est une architecture d&#x27;apprentissage profond introduite en 2017. Elle est principalement utilisée dans le domaine du traitement automatique des langues en servant de base aux grands modèles de langage, mais peut aussi servir à traiter d&#x27;autres ...",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "What is LLM? - Large Language Models Explained - AWS",
+      "url": "https://aws.amazon.com/what-is/large-language-model/",
+      "description": "Transformer-based neural networks are very large. These networks contain multiple nodes and layers. Each node in a layer has connections to all nodes in the subsequent layer, each of which has a weight and a bias. Weights and biases along with embeddings are known as model parameters.",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "10 Insights from Transformers for NLP and Computer Vision",
+      "url": "https://noroinsight.com/transformers-for-nlp-and-computer-vision/",
+      "description": "Today’s models can understand text with near human-level fluency, advancing the field of natural language processing (NLP), and are becoming more capable at working with images and video. At the core of these developments is transformer architecture, a key innovation that changed how machines ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/I5VtahSj_jg5nEqBK3c-uLxo-OR2NUvyqr7XHMuYX9I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ub3Jv/aW5zaWdodC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MDYvVHJhbnNmb3Jt/ZXJzLWZvci1OTFAt/YW5kLUNvbXB1dGVy/LVZpc2lvbi53ZWJw"
+    },
+    {
+      "title": "dblp: computer science bibliography",
+      "url": "https://dblp.org/",
+      "description": "The dblp computer science bibliography is the online reference for open bibliographic information on major computer science journals and proceedings.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/QP1Qhb5aNKpXH9GXpkPh43bYYqtXA31quL1DWzIddTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kYmxw/Lm9yZy9pbWcvbG9n/by4zMjB4MTIwLnBu/Zw"
+    }
+  ]
+}

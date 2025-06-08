@@ -1,0 +1,76 @@
+{
+  "query": "design principles for building an agent",
+  "timestamp": "",
+  "results": [
+    {
+      "title": "What are AI Agents?- Agents in Artificial Intelligence Explained - AWS",
+      "url": "https://aws.amazon.com/what-is/ai-agents/",
+      "description": " · The agent function describes how the data collected is translated into actions that support the agent’s objective. When designing the agent function, developers consider the type of information, AI capabilities, knowledge base, feedback mechanism, and other technologies required.",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Design My First AI Agent | Towards Data Science",
+      "url": "https://towardsdatascience.com/how-to-design-my-first-ai-agent/",
+      "description": "And let’s not forget, if you’re working with proprietary data, privacy is still very much a thing. So before piping it into the cloud, maybe run it past your security and data teams first. Before building, align your choice of LLM(s) with your application’s needs. Some agents can thrive with a single powerful model; others require orchestration between specialized ones. Important things that you should consider while designing ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/51UsWS3APgDLIaBD7qoVy3vpZkoNFu9okxHfrkk3MN4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3dh/cmRzZGF0YXNjaWVu/Y2UuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2L2lt/YWdlLTcucG5n"
+    },
+    {
+      "title": "Agent-based model - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agent-based_model",
+      "description": "Building DREAM models allows model comparison across scientific disciplines. Validated agent-based modeling using Virtual Overlay Multiagent system (VOMAS) for the development of verified and validated models in a formal manner. Other methods of describing agent-based models include code templates and text-based methods such as the ODD (Overview, Design ...",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intelligent agent - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_agent",
+      "description": "Prominent examples include Devin AI, AutoGPT, and SIMA. Further examples of agents released since 2025 include OpenAI Operator, ChatGPT Deep Research, and Manus. Frameworks for building AI agents include LangChain, as well as tools such as CAMEL, Microsoft AutoGen, and OpenAI Swarm.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/mRD8IHmg9NQUfQCxLbe5LlhHgi6QhbRb0Hy6sQo5lDM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzNmL0ludGVsbGln/ZW50QWdlbnQtU2lt/cGxlUmVmbGV4LnBu/Zw"
+    },
+    {
+      "title": "Rise of AI Agents — What are AI Agents — Characteristics & Principles (Part 2) | by Vishnu Priya | Apr, 2025 | Medium",
+      "url": "https://medium.com/@vishnupriyayerram28/rise-of-ai-agents-what-are-ai-agents-characteristics-principles-part-2-40b91afe5293",
+      "description": "A detailed understanding of AI agents, their underlying technologies, methods to building them, and their applications in the real world.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/v0IbzT25bmnk96iaqpACY6CiFqtWm2wXeBCAdgPTM3Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqR081/WGRGUTVJR1puazVq/b0dYUzVZUS5wbmc"
+    },
+    {
+      "title": "Building an AI Agent that puts humans in the loop with Knock and Cloudflare’s Agents SDK",
+      "url": "https://blog.cloudflare.com/building-agents-at-knock-agents-sdk/",
+      "description": "How Knock shipped an AI Agent with human-in-the-loop capabilities with Cloudflare’s Agents SDK and Cloudflare Workers.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/Qe9ijZ8EhcrXkEpwJe9ySeQOXbNnA3jmyXRR07gd-OQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZi1h/c3NldHMud3d3LmNs/b3VkZmxhcmUuY29t/L3prdmhsYWc5OWdr/Yi80UURNR0FUUVlG/WXR6dzlDZkVwWmVB/L2I4NTBlYmIyZGQy/YjIyZmQ0MTU4MDdj/NGE3YTA5Y2YyL2hl/cm8ta25vY2stY2xv/dWRmbGFyZS1hZ2Vu/dHMucG5n"
+    },
+    {
+      "title": "Architecting Agents - Elements.cloud",
+      "url": "https://elements.cloud/blog/architecting-agents/",
+      "description": "Explain behavior &amp; get sign-off: Helps articulate the Topic’s function to non-technical stakeholders and secure their approval. Agent platform agnostic: The principles of process diagramming apply regardless of the underlying agent platform. Use the Elements.cloud free Agent Designer to draw ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/Al9l_FYxVYc9YsqiwD6269V9P_1e-jtsdOrgkV4quCI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lbGVt/ZW50cy5jbG91ZC9h/cHAvdXBsb2Fkcy8y/MDI1LzA2L2lnb3It/b21pbGFldi1nVlFM/QWJHVkI2US11bnNw/bGFzaC5qcGc"
+    },
+    {
+      "title": "Someone Built an AI Agent for the iPhone Before Apple Could | Lifehacker",
+      "url": "https://lifehacker.com/tech/someone-built-an-ai-agent-for-the-iphone-before-apple",
+      "description": "The new PhoneAgent AI is experimental software for the iPhone that can take actions on your behalf—and you can use it now.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/U4EnlX7zG7kKHeeTmlDQ714oCdQNdVcde9ChSag6evk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9saWZl/aGFja2VyLmNvbS9p/bWFnZXJ5L2FydGlj/bGVzLzAxSldaWDZW/Q0hHRTBKWllFRFpY/NVlaTUs1L2hlcm8t/aW1hZ2UuanBn"
+    },
+    {
+      "title": "🧠 How to Build AI Agents — Step-by-Step | by Rajasekhar Vaderav | May, 2025 | Medium",
+      "url": "https://medium.com/@rajamails19/how-to-build-ai-agents-step-by-step-dfa3b525058b",
+      "description": "1. Understand What an AI Agent Is. “🧠 How to Build AI Agents — Step-by-Step” is published by Rajasekhar Vaderav.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/wA9qCaZsECSmp2daXwgEZUI4AMBAzmuOe-sw66t21g0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqMnFJ/NUpvYWFycUl1Q0Ez/bG5rQXRlQS5wbmc"
+    },
+    {
+      "title": "Here’s how an iPhone AI agent could change how we complete tasks - 9to5Mac",
+      "url": "https://9to5mac.com/2025/06/01/heres-how-an-iphone-ai-agent-could-change-how-we-complete-tasks/",
+      "description": "While AI can help us do stuff, AI agents are tools that actually do stuff for us. A new open-source...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/K7uDyUSZAOdPDUkpTcyIWVXLKSZAQJeXaZsqbcHI300/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly85dG81/bWFjLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvNi8y/MDI1LzAxL2lQaG9u/ZS0xNi1iYW4tY291/bGQtZW5kLWluLTEt/Mi13ZWVrcy1zYXlz/LUluZG9uZXNpYS13/aXRob3V0LWV4cGxh/bmF0aW9uLmpwZz9x/dWFsaXR5PTgyJnN0/cmlwPWFsbCZ3PTEw/MjQ"
+    }
+  ]
+}

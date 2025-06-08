@@ -1,0 +1,76 @@
+{
+  "query": "Main Design principles required to build an agent",
+  "timestamp": "",
+  "results": [
+    {
+      "title": "What are AI Agents?- Agents in Artificial Intelligence Explained - AWS",
+      "url": "https://aws.amazon.com/what-is/ai-agents/",
+      "description": " · AI agents are helpful software ... AI agents for business use cases. Developing and operating advanced AI agents requires acquiring, storing, and moving massive volumes of data....",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intelligent agent - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_agent",
+      "description": "Complex: It might require the agent to evaluate and learn from past actions, adapting its behavior based on patterns that have proven effective. The objective function encapsulates all of the goals the agent is designed to achieve. For rational agents, it also incorporates the trade-offs between ...",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Design My First AI Agent | Towards Data Science",
+      "url": "https://towardsdatascience.com/how-to-design-my-first-ai-agent/",
+      "description": "So before piping it into the cloud, ... security and data teams first. Before building, align your choice of LLM(s) with your application’s needs. Some agents can thrive with a single powerful model; others require orchestration between specialized ones. Important things that you should consider while designing your AI ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/51UsWS3APgDLIaBD7qoVy3vpZkoNFu9okxHfrkk3MN4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90b3dh/cmRzZGF0YXNjaWVu/Y2UuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2L2lt/YWdlLTcucG5n"
+    },
+    {
+      "title": "Agent-based model - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agent-based_model",
+      "description": "One of their first results was to show that the social structure of bumble-bee colonies emerged as a result of simple rules that govern the behaviour of individual bees. They introduced the ToDo principle, referring to the way agents &quot;do what there is to do&quot; at any given time.",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Postman Adds AI Agent Mode to Design, Build and Deploy APIs - DevOps.com",
+      "url": "https://devops.com/postman-adds-ai-agent-mode-to-design-build-and-deploy-apis/",
+      "description": "Postman today revealed it has developed artificial intelligence (AI) agents for its platform for designing and building application programming interfaces Postman today revealed it has developed AI agents for its platform for designing and building APIs.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/u4rtqnMD-BsGGuaGSv1vffIMzcQHbX6lLtEhr-DrrIc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kZXZv/cHMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA1L0Rl/dk9wcy1hbmQtQUlP/cHMtMS5qcGc"
+    },
+    {
+      "title": "Building an AI Agent that puts humans in the loop with Knock and Cloudflare’s Agents SDK",
+      "url": "https://blog.cloudflare.com/building-agents-at-knock-agents-sdk/",
+      "description": "How Knock shipped an AI Agent with human-in-the-loop capabilities with Cloudflare’s Agents SDK and Cloudflare Workers.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/Qe9ijZ8EhcrXkEpwJe9ySeQOXbNnA3jmyXRR07gd-OQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZi1h/c3NldHMud3d3LmNs/b3VkZmxhcmUuY29t/L3prdmhsYWc5OWdr/Yi80UURNR0FUUVlG/WXR6dzlDZkVwWmVB/L2I4NTBlYmIyZGQy/YjIyZmQ0MTU4MDdj/NGE3YTA5Y2YyL2hl/cm8ta25vY2stY2xv/dWRmbGFyZS1hZ2Vu/dHMucG5n"
+    },
+    {
+      "title": "Vibe Coding 101 with Replit - DeepLearning.AI",
+      "url": "https://learn.deeplearning.ai/courses/vibe-coding-101-with-replit/lesson/rmlc7/principles-of-agentic-code-development",
+      "description": "Design, build, and deploy apps with an AI coding agent in an integrated web development environment.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/vdURheLiqCVhf9czt6WZm4NlNeEe4U603RfsLgWGJ3E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sZWFy/bi5kZWVwbGVhcm5p/bmcuYWkvYXNzZXRz/L2RsYWktbG9nby1z/cXVhcmUucG5n"
+    },
+    {
+      "title": "AI Agent Architecture via A2A/MCP | by Jeffrey Richter | Jun, 2025 | Medium",
+      "url": "https://medium.com/@jeffreymrichter/ai-agent-architecture-b864080c4bbc",
+      "description": "This article explores the various architectural components such as Humans, Copilots, AI Agents, AI Models, MCP Host/Clients/Servers and how data is passed between these components.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/sJUOPpOMwNFgCRDnVh8lJffpcbRGxigaPQZPE00zRz4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqSlV5/b20zRlJKVWo4bGFl/M1ZaVU9XUS5qcGVn"
+    },
+    {
+      "title": "4 UX Design Principles for Autonomous Multi-Agent AI Systems",
+      "url": "https://newsletter.victordibia.com/p/4-ux-design-principles-for-multi",
+      "description": "It was a short talk and my goal was to distill a set of UX design principles that developers could apply while building experiences for autonomous multi-agent systems. It is largely based on my experience prototyping multi-agent systems, maintaining AutoGen (a framework for building multi-agent ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/tsKrDrdowWG7WatOGsIKSLt4kxaf1-2QymA3a2WyLF0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/Zl9hdXRvLHFfYXV0/bzpnb29kLGZsX3By/b2dyZXNzaXZlOnN0/ZWVwL2h0dHBzJTNB/JTJGJTJGc3Vic3Rh/Y2stcG9zdC1tZWRp/YS5zMy5hbWF6b25h/d3MuY29tJTJGcHVi/bGljJTJGaW1hZ2Vz/JTJGYzAyZjcwODIt/ODMyNi00NjQ1LTgz/MGYtNGVkOGJhOGQ3/ZDZkXzI0OTZ4MjA4/Mi5wbmc"
+    },
+    {
+      "title": "Rise of AI Agents — What are AI Agents — Characteristics & Principles (Part 2) | by Vishnu Priya | Apr, 2025 | Medium",
+      "url": "https://medium.com/@vishnupriyayerram28/rise-of-ai-agents-what-are-ai-agents-characteristics-principles-part-2-40b91afe5293",
+      "description": "A detailed understanding of AI agents, their underlying technologies, methods to building them, and their applications in the real world.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/v0IbzT25bmnk96iaqpACY6CiFqtWm2wXeBCAdgPTM3Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqR081/WGRGUTVJR1puazVq/b0dYUzVZUS5wbmc"
+    }
+  ]
+}

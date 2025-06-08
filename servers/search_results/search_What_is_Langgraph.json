@@ -1,0 +1,76 @@
+{
+  "query": "What is Langgraph",
+  "timestamp": "",
+  "results": [
+    {
+      "title": "Episode #507 - Agentic AI Workflows with LangGraph | Talk Python To Me Podcast",
+      "url": "https://talkpython.fm/episodes/show/507/agentic-ai-workflows-with-langgraph",
+      "description": "Agentic empowers the LLMs to use ... based on what it has learned at that point. And frameworks provide all the necessary building blocks to weave these into your apps with features like long-term memory and durable resumability. I&#x27;m excited to have Sydney Runkle back on the podcast to dive into building Python apps with LangChain and LangGraph. ... Sydney Runkle is a seasoned ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/j1S7abTupbJ3Ad_4awaj2y2GrDKDXsis6uSPV3k76rA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/cG9kY2FzdC50YWxr/cHl0aG9uLmZtL2Vw/aXNvZGVzL3lvdXR1/YmVfaW1hZ2UvMGFu/OEZiVGZaTkUvYWdl/bnRpYy1haS13b3Jr/Zmxvd3Mtd2l0aC1s/YW5nZ3JhcGguanBn/P3Y9Mg"
+    },
+    {
+      "title": "Getting Started With LangGraph - Java Code Geeks",
+      "url": "https://www.javacodegeeks.com/getting-started-with-langgraph.html",
+      "description": "It is built on top of LangChain ... and long-running conversations. LangGraph is an innovative framework built on top of LangChain that enables developers to construct LLM-powered applications using a graph-based architecture....",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/DSZkGzogTKl1r2p0D-sTgIWJYlIJ6pHrlwaid34btWg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/amF2YWNvZGVnZWVr/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDYvbGFu/Z2dyYXBoLWNvbG9y/LmpwZw"
+    },
+    {
+      "title": "LangGraph (LangChain) Logo Free Download SVG, PNG and Vector · LobeHub",
+      "url": "https://lobehub.com/icons/langgraph",
+      "description": "LangGraph (LangChain) SVG Logos - Collection of AI / LLM Model Icon resources covering mainstream AI brands and models, Free Download SVG, PNG and Vector",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/J7Ka1ikxtZrDKC5nBBuAfXE2zmr6q-oNSVwNgaMx76M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZWdp/c3RyeS5ucG1taXJy/b3IuY29tL0Bsb2Jl/aHViL2ljb25zLXN0/YXRpYy1wbmcvbGF0/ZXN0L2ZpbGVzL2xp/Z2h0L2xhbmdncmFw/aC1jb2xvci5wbmc"
+    },
+    {
+      "title": "The Rise of the Agenticist: Why the Hottest AI Job of 2025 Doesn't Exist Yet",
+      "url": "https://algarch.com/blog/the-rise-of-the-agenticist-why-the-hottest-ai-job-of-2025-doesnt-exist-yet",
+      "description": "Learn agent orchestration tools like LangGraph or AutoGen · Understand basic principles of multi-agent systems and distributed computing ... The agent orchestration landscape changes monthly. Agenticists must commit to continuous learning and adaptation. Since the field is so new, there are ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/TQ_6sqzS9A8r-ap17GoAF5t40MvL_j6XH02pcF4OLlw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hbGdh/cmNoLmNvbS9zdG9y/YWdlL2dlbmVyYXRl/ZC1pbWFnZXMvMjdh/Yzk2MzgtYWM2YS00/MjBkLTlkNGUtZmYw/OTYzZmVhNzdmLnBu/Zw"
+    },
+    {
+      "title": "A Step-by-Step Coding Guide to Building an Iterative AI Workflow Agent Using LangGraph and Gemini - MarkTechPost",
+      "url": "https://www.marktechpost.com/2025/06/05/a-step-by-step-coding-guide-to-building-an-iterative-ai-workflow-agent-using-langgraph-and-gemini/",
+      "description": "In this tutorial, we demonstrate how to build a multi-step, intelligent query-handling agent using LangGraph and Gemini 1.5 Flash. The core idea is to structure AI reasoning as a stateful workflow, where an incoming query is passed through a series of purposeful nodes: routing, analysis, research, ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/IeOikBIlw0Iy1T8e4fFlb9OF_8gd428dYqOu5Qj2kN0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya3RlY2hwb3N0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wNi9YbmFw/cGVyLTIwMjUtMDYt/MDUtMTQuMDIuMjYt/c2NhbGVkLnBuZw"
+    },
+    {
+      "title": "Build multimodal agents using Gemini, Langchain, and LangGraph | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/build-multimodal-agents-using-gemini-langchain-and-langgraph/",
+      "description": "Here’s a common scenario when building AI agents that might feel confusing: How can you use the latest Gemini models and an open-source framework like LangChain and LangGraph to create multimodal agents that can detect objects? Detecting objects is critically important for use cases from ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/HwWln8zA9w6Kya1S7fRFtXeG8afAVmHU0mKvCDnIQ-g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2d3ZWIt/Y2xvdWRibG9nLXB1/Ymxpc2gvaW1hZ2Vz/LzAxXy1fQUlfX01h/Y2hpbmVfTGVhcm5p/bmdfSDFaeVpHOC5t/YXgtMjYwMHgyNjAw/LmpwZw"
+    },
+    {
+      "title": "Why LangGraph Could Be Your Next Favorite AI Framework | by Shreyas Naphad | Jun, 2025 | Medium",
+      "url": "https://medium.com/@shreyasnaphad/why-langgraph-could-be-your-next-favorite-ai-framework-c0e1ce7d40f4",
+      "description": "How does an app like Spotify know what song you would like next, or how does a platform like LinkedIn suggest who we should connect with? This sounds like magic, but practically speaking, there are two technologies behind the scenes: natural language processing (NLP) and graph algorithms. Now I will introduce you to LangGraph, which is ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/SaXleXG2OvStO6mPIXPC3fwvIhAGodSxIXc8z_4dMaw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvZGE6dHJ1ZS9y/ZXNpemU6Zml0OjEy/MDAvMCpGR2NUdV9I/SzZERHEwRGNa"
+    },
+    {
+      "title": "Understanding LangGraph Data Visualization Software | Coursera",
+      "url": "https://www.coursera.org/articles/langgraph",
+      "description": "LangGraph is an open-source framework developed by LangChain that enables developers to build and manage AI agent workflows efficiently. AI agents are essential to capturing the human aspect of the step-by-step problem-solving necessary for completing large-scale, complex tasks.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/VN1-OaBW-Y3BcByu0D6cY1ZpxAK0LmXJ9HAgnNh2Itw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC93cDFsY3dk/YXYxcDEvM2IxVWUw/Y1BvTElvVFZHS3pT/c2dyMC9iNzhlNTBm/YjY3OWNhMDcxNmFm/NzY0MGYyM2Q3N2Rl/Yy9HZXR0eUltYWdl/cy0yMDY0Mjc3MTQz/LmpwZz93PTE1MDAm/YW1wO2g9NjgwJmFt/cDtxPTYwJmFtcDtm/aXQ9ZmlsbCZhbXA7/Zj1mYWNlcyZhbXA7/Zm09anBnJmFtcDtm/bD1wcm9ncmVzc2l2/ZQ"
+    },
+    {
+      "title": "Level Up Your RAG Stack: Hybrid Search with miniCOIL, Qdrant, LangGraph & DeepSeek-R1 (2025 Guide) - Cohorte Projects",
+      "url": "https://www.cohorte.co/blog/level-up-your-rag-stack-hybrid-search-with-minicoil-qdrant-langgraph-deepseek-r1-2025-guide",
+      "description": "LangGraph turns an LLM workflow into an explicit stateful graph—every node is a function, every edge is a transition. Think of it as “Airflow for LLM agents” without the pain of DAG scheduling.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/gS1mwVy_tsP5L-np0y4ZMFPVaq4ehpXJHiaHNC6gosY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/Njg0MWMyYTk1NDA1/MjI2YTYwZDMzMmUv/NjgzZDVkMGU2MmFl/YTU3MGEyN2I3MGFl/X1JBR18yMDI1Lndl/YnA"
+    },
+    {
+      "title": "🚀震撼发布！谷歌开源Gemini Fullstack LangGraph企业级AI智能体系统+深度搜索神器，告别ChatGPT付费订阅，AI研究员级别的DeepResearch，完整部署教程一键搞定 - YouTube",
+      "url": "https://www.youtube.com/watch?v=hcbrEkb3oa0",
+      "description": "🚀🚀🚀视频简介：✅本期视频详细介绍并演示了谷歌开源的Gemini Fullstack LangGraph项目，这是一个基于LangGraph的AI智能体系统，具备深度搜索和智能研究功能 🔍。相比主流AI平台的DeepSearch功能需要付费订阅且有次数限制 ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/qCGJV_z86MVofywNVHjweinfXN5V9D9hBp-pp1JJn4o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9o/Y2JyRWtiM29hMC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+    }
+  ]
+}

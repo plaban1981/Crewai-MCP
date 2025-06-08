@@ -1,0 +1,76 @@
+{
+  "query": "LangGraph framework",
+  "timestamp": "",
+  "results": [
+    {
+      "title": "AI Agents in LangGraph - DeepLearning.AI",
+      "url": "https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction",
+      "description": "Welcome to AI Agents and LangGraph. Built in partnership with LangChain and Tivoli. Taught by Harrison Chase, co-founder and CEO of LangChain, as well as Rotem Weiss who is the co-founder and CEO of Tavily. Harrison, it was not quite a year ago that we&#x27;re working on our first course on LLM frameworks...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/vdURheLiqCVhf9czt6WZm4NlNeEe4U603RfsLgWGJ3E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sZWFy/bi5kZWVwbGVhcm5p/bmcuYWkvYXNzZXRz/L2RsYWktbG9nby1z/cXVhcmUucG5n"
+    },
+    {
+      "title": "Build multimodal agents using Gemini, Langchain, and LangGraph | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/build-multimodal-agents-using-gemini-langchain-and-langgraph/",
+      "description": "Learn how to combine Gemini models with open-source frameworks like LangChain and LangGraph. To get started right away, use ADK Quickstart or visit our Agent Development GitHub.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/HwWln8zA9w6Kya1S7fRFtXeG8afAVmHU0mKvCDnIQ-g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2d3ZWIt/Y2xvdWRibG9nLXB1/Ymxpc2gvaW1hZ2Vz/LzAxXy1fQUlfX01h/Y2hpbmVfTGVhcm5p/bmdfSDFaeVpHOC5t/YXgtMjYwMHgyNjAw/LmpwZw"
+    },
+    {
+      "title": "LangGraph vs AutoGen: Comparing AI Agent Frameworks",
+      "url": "https://blog.promptlayer.com/langgraph-vs-autogen/",
+      "description": "LangGraph is an open-source framework built on top of LangChain, designed for orchestrating complex workflows using directed acyclic graphs (DAGs). It allows developers to define multi-agent systems where each agent performs specific tasks, and their interactions are managed through a graph ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/bhOegR2dXDE44wcNBkxyLDHofOJ1PoB6YPTX1Pe4oKo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnByb21wdGxheWVy/LmNvbS9jb250ZW50/L2ltYWdlcy9zaXpl/L3cxMjAwLzIwMjUv/MDYvSG93LWEtUHJv/bXB0LUVuZ2luZWVy/aW5nLVRvb2wtSW1w/cm92ZXMtQUktTW9k/ZWwtUGVyZm9ybWFu/Y2UtLS0yMDI1LTA2/LTA1VDEyMDkwOS45/ODcucG5n"
+    },
+    {
+      "title": "Episode #507 - Agentic AI Workflows with LangGraph | Talk Python To Me Podcast",
+      "url": "https://talkpython.fm/episodes/show/507/agentic-ai-workflows-with-langgraph",
+      "description": "And frameworks provide all the necessary building blocks to weave these into your apps with features like long-term memory and durable resumability. I&#x27;m excited to have Sydney Runkle back on the podcast to dive into building Python apps with LangChain and LangGraph.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/j1S7abTupbJ3Ad_4awaj2y2GrDKDXsis6uSPV3k76rA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/cG9kY2FzdC50YWxr/cHl0aG9uLmZtL2Vw/aXNvZGVzL3lvdXR1/YmVfaW1hZ2UvMGFu/OEZiVGZaTkUvYWdl/bnRpYy1haS13b3Jr/Zmxvd3Mtd2l0aC1s/YW5nZ3JhcGguanBn/P3Y9Mg"
+    },
+    {
+      "title": "Why LangGraph Could Be Your Next Favorite AI Framework | by Shreyas Naphad | Jun, 2025 | Medium",
+      "url": "https://medium.com/@shreyasnaphad/why-langgraph-could-be-your-next-favorite-ai-framework-c0e1ce7d40f4",
+      "description": "Let me start by asking a simple question: Do you know how AI systems understand relationships between things? How does an app like Spotify know what song you would like next, or how does a platform…",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/SaXleXG2OvStO6mPIXPC3fwvIhAGodSxIXc8z_4dMaw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvZGE6dHJ1ZS9y/ZXNpemU6Zml0OjEy/MDAvMCpGR2NUdV9I/SzZERHEwRGNa"
+    },
+    {
+      "title": "Understanding LangGraph Data Visualization Software | Coursera",
+      "url": "https://www.coursera.org/articles/langgraph",
+      "description": "LangGraph is an open-source framework developed by LangChain that enables developers to build and manage AI agent workflows efficiently. AI agents are essential to capturing the human aspect of the step-by-step problem-solving necessary for completing large-scale, complex tasks.",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/VN1-OaBW-Y3BcByu0D6cY1ZpxAK0LmXJ9HAgnNh2Itw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC93cDFsY3dk/YXYxcDEvM2IxVWUw/Y1BvTElvVFZHS3pT/c2dyMC9iNzhlNTBm/YjY3OWNhMDcxNmFm/NzY0MGYyM2Q3N2Rl/Yy9HZXR0eUltYWdl/cy0yMDY0Mjc3MTQz/LmpwZz93PTE1MDAm/YW1wO2g9NjgwJmFt/cDtxPTYwJmFtcDtm/aXQ9ZmlsbCZhbXA7/Zj1mYWNlcyZhbXA7/Zm09anBnJmFtcDtm/bD1wcm9ncmVzc2l2/ZQ"
+    },
+    {
+      "title": "Getting Started With LangGraph - Java Code Geeks",
+      "url": "https://www.javacodegeeks.com/getting-started-with-langgraph.html",
+      "description": "Still evolving: As a relatively new project, the community, support, and documentation may not be as mature as other frameworks. Requires understanding of graph and async concepts: Developers need to be familiar with asynchronous programming and graph-based design principles to use LangGraph ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/DSZkGzogTKl1r2p0D-sTgIWJYlIJ6pHrlwaid34btWg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/amF2YWNvZGVnZWVr/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDYvbGFu/Z2dyYXBoLWNvbG9y/LmpwZw"
+    },
+    {
+      "title": "A Step-by-Step Coding Guide to Building an Iterative AI Workflow Agent Using LangGraph and Gemini - MarkTechPost",
+      "url": "https://www.marktechpost.com/2025/06/05/a-step-by-step-coding-guide-to-building-an-iterative-ai-workflow-agent-using-langgraph-and-gemini/",
+      "description": "A Step-by-Step Coding Guide to Building an Iterative AI Workflow Agent Using LangGraph and Gemini",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/IeOikBIlw0Iy1T8e4fFlb9OF_8gd428dYqOu5Qj2kN0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya3RlY2hwb3N0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wNi9YbmFw/cGVyLTIwMjUtMDYt/MDUtMTQuMDIuMjYt/c2NhbGVkLnBuZw"
+    },
+    {
+      "title": "LangGraph vs Crew AI vs AutoGen - Mue AI",
+      "url": "https://muegenai.com/docs/data-science/building-llm-powered-applications-with-langchain-langgraph/module-5-introduction-to-langgraph/langgraph-vs-crew-ai-vs-autogen/",
+      "description": "As AI applications become more complex and rely heavily on Large Language Models (LLMs), there’s a growing demand for structured tools that help manage workflows, agent collaboration, and task orchestration. Among the leading frameworks in this space are LangGraph, Crew AI, and AutoGen. Each ...",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "LangGraph & DSPy: Orchestrating Multi-Agent AI Workflows & Declarative Prompting | by Akanksha Sinha | Jun, 2025 | Medium",
+      "url": "https://medium.com/@akankshasinha247/langgraph-dspy-orchestrating-multi-agent-ai-workflows-declarative-prompting-93b2bd06e995",
+      "description": "♦ LangGraph → enables flexible, graph-based orchestration of LLM agents and tools ♦ DSPy → brings a declarative, optimized approach to prompt engineering and tuning · Together, these frameworks help us move from “prompting a model” to “engineering GenAI systems” — bridging ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/biQjuKU4lKbjYi6sPR7uVI2dRpjNSD0Wi34G8OlFU0I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqVG9a/NjNFek5QbHlBaTFW/OUtmZWF5QS5wbmc"
+    }
+  ]
+}

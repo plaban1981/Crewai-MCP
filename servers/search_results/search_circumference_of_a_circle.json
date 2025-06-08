@@ -1,0 +1,20 @@
+{
+  "query": "circumference of a circle",
+  "timestamp": "",
+  "results": [
+    {
+      "title": "Area of a circle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Area_of_a_circle",
+      "description": "The area of a regular polygon is half its perimeter multiplied by the distance from its center to its sides, and because the sequence tends to a circle, the corresponding formula–that the area is half the circumference times the radius–namely, A = ⁠1/2⁠ × 2πr × r, holds for a circle.",
+      "published": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Angle Properties of a Circle -",
+      "url": "https://www.learntheta.com/maths-angle-properties-of-a-circle/",
+      "description": "Angles in the Same Segment: Angles in the same segment of a circle (i.e., angles subtended by the same chord on the same side) are equal. The core formulas are described by these relationships: If an arc subtends an angle $x$ at the center, it subtends an angle $x/2$ at any point on the major arc. If $\\angle APB$ and $\\angle AQB$ are angles in the same segment, then $\\angle APB = \\angle AQB$. (A, B are points on the circumference ...",
+      "published": "",
+      "thumbnail": "https://imgs.search.brave.com/l1Ytwy7xNGB6sc_rQsk5K52OWvnF_dlssl0aIl-d2Bc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnN0/YWNrLmltZ3VyLmNv/bS9RM3Y5ei5wbmc"
+    }
+  ]
+}
